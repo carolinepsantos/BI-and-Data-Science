@@ -33,8 +33,8 @@
         <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/HR%20Data%20Analysis%20Dashboard/HR%20Data%20Analysis%20Dashboard.png" alt="HR Data Analysis Dashboard" width="100%" height="auto" />
       </td>
       <td align="center">
-        <!--<p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Commercial%20Dashboard">Commercial Dashboard - Lab 4</a></p>
-        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Commercial%20Dashboard/Commercial%20Dashboard.gif" alt="Commercial Dashboard" width="100%" height="auto" />-->
+        <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Logistics%20Data%20Analysis%20Dashboard">Logistics Data Analysis Dashboard - Lab 6</a></p>
+        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Logistics%20Data%20Analysis%20Dashboard/Logistics%20Data%20Analysis%20Dashboard.png" alt="Commercial Dashboard" width="100%" height="auto" />
       </td>
     </tr>
 </table>
