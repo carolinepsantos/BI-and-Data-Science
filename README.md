@@ -16,18 +16,16 @@
       <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Sales%2C%20Costs%2C%20Profit%20Margin%2C%20and%20KPI%20Dashboard">Sales, Costs, Profit Margin, and KPI Dashboard - Lab 2</a></p>
       <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Sales%2C%20Costs%2C%20Profit%20Margin%2C%20and%20KPI%20Dashboard/Sales%2C%20Costs%2C%20Profit%20Margin%2C%20and%20KPI%20Dashboard.png" alt="Sales, Costs, Profit Margin, and KPI Dashboard" width="100%" height="auto" />
     </td>
+    <td align="center">
+      <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Marketing%20Campaign%20Analysis%20Dashboard">Marketing Campaign Analysis Dashboard - Lab 3</a></p>
+      <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Marketing%20Campaign%20Analysis%20Dashboard/Marketing%20Campaign%20Analysis%20Dashboard.png" alt="Marketing Campaign Analysis Dashboard" width="100%" height="auto" />
+    </td>
   </tr>
   <tr>
-      <td align="center">
-        <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Marketing%20Campaign%20Analysis%20Dashboard">Marketing Campaign Analysis Dashboard - Lab 3</a></p>
-        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Marketing%20Campaign%20Analysis%20Dashboard/Marketing%20Campaign%20Analysis%20Dashboard.png" alt="Marketing Campaign Analysis Dashboard" width="100%" height="auto" />
-      </td>
       <td align="center">
         <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Commercial%20Dashboard">Commercial Dashboard - Lab 4</a></p>
         <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Commercial%20Dashboard/Commercial%20Dashboard.gif" alt="Commercial Dashboard" width="100%" height="auto" />
       </td>
-    </tr>
-  <tr>
       <td align="center">
         <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/HR%20Data%20Analysis%20Dashboard">HR Data Analysis Dashboard - Lab 5</a></p>
         <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/HR%20Data%20Analysis%20Dashboard/HR%20Data%20Analysis%20Dashboard.png" alt="HR Data Analysis Dashboard" width="100%" height="auto" />
@@ -42,9 +40,13 @@
         <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Financial%20Analysis%20Dashboard">Financial Analysis Dashboard - Lab 7</a></p>
         <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Financial%20Analysis%20Dashboard/Financial%20Analysis%20Dashboard.png" alt="Financial Analysis Dashboard" width="100%" height="auto" />
       </td>
-      <!--<td align="center">
-        <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Logistics%20Data%20Analysis%20Dashboard">Logistics Data Analysis Dashboard - Lab 6</a></p>
-        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Logistics%20Data%20Analysis%20Dashboard/Logistics%20Data%20Analysis%20Dashboard.png" alt="Commercial Dashboard" width="100%" height="auto" />-->
+      <td align="center">
+        <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Accounting%20Data%20Analysis%20Dashboard">Accounting Data Analysis Dashboard - Lab 8</a></p>
+        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Accounting%20Data%20Analysis%20Dashboard/Accounting%20Data%20Analysis%20Dashboard.png" alt="Accounting Data Analysis" width="100%" height="auto" />
+      </td>
+      <td align="center">
+        <p><a href="https://github.com/carolinepsantos/BI-and-Data-Science/tree/main/Stock%20Market%20Data%20Analysis%20Dashboard">Stock Market Data Analysis Dashboard - Lab 9</a></p>
+        <img src="https://github.com/carolinepsantos/BI-and-Data-Science/blob/main/Stock%20Market%20Data%20Analysis%20Dashboard/Stock%20Market%20Data%20Analysis%20Dashboard.png" alt="Stock Market Data Analysis" width="100%" height="auto" />
       </td>
     </tr>
 </table>
